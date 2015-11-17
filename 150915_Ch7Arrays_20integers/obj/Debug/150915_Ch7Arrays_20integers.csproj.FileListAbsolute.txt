@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150915_Ch7Arrays_20integers\150915_Ch7Arrays_20integers\bin\Debug\150915_Ch7Arrays_20integers.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150915_Ch7Arrays_20integers\150915_Ch7Arrays_20integers\bin\Debug\150915_Ch7Arrays_20integers.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150915_Ch7Arrays_20integers\150915_Ch7Arrays_20integers\bin\Debug\150915_Ch7Arrays_20integers.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150915_Ch7Arrays_20integers\150915_Ch7Arrays_20integers\obj\Debug\150915_Ch7Arrays_20integers.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150915_Ch7Arrays_20integers\150915_Ch7Arrays_20integers\obj\Debug\150915_Ch7Arrays_20integers.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150915_Ch7Arrays_20integers\150915_Ch7Arrays_20integers\obj\Debug\150915_Ch7Arrays_20integers.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150915_Ch7Arrays_20integers\150915_Ch7Arrays_20integers\bin\Debug\150915_Ch7Arrays_20integers.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150915_Ch7Arrays_20integers\150915_Ch7Arrays_20integers\obj\Debug\150915_Ch7Arrays_20integers.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150915_Ch7Arrays_20integers\150915_Ch7Arrays_20integers\obj\Debug\150915_Ch7Arrays_20integers.pdb
